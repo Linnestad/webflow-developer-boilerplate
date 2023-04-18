@@ -1,7 +1,7 @@
 {
   "name": "@linnestad/webflow-developer-boilerplate",
   "version": "0.0.0",
-  "description": "Developer starter template for Webflow projects.",
+  "description": "Developer starter template for Webflow projects, cloned from Finsweet's developer starter but with jQuery as devDependency.",
   "homepage": "https://github.com/linnestad/webflow-developer-boilerplate#readme",
   "license": "ISC",
   "keywords": [],
