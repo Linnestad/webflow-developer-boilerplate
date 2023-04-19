@@ -1,4 +1,4 @@
-# Finsweet Developer Starter
+# Finsweet Developer Starter with jQuery as devDependency
 
 A starter template for both Client & Power projects.
 
