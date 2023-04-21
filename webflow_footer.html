@@ -1,0 +1,10 @@
+<!--Add this to the webflow project footer code and change url-->
+<script>
+  const isStaging = window.location.origin.includes('webflow.io');
+  const script = documnet.createElement('script');
+  script.src = isStaging
+    ? 'http://localhost:3000/index.js'
+    : 'https://cdn.jsdelivr.net/gh/user/repo@version/file.js';
+  script.defer = true;
+  document.currentScript.insertAdjacentElement('afterend', script);
+</script>
