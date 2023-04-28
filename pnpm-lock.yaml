@@ -49,7 +49,7 @@ devDependencies:
     specifier: ^10.0.0
     version: 10.0.0(eslint@8.38.0)
   jquery:
-    specifier: ^3.5.1
+    specifier: 3.5.1
     version: 3.5.1
   prettier:
     specifier: ^2.8.7
