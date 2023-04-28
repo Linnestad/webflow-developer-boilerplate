@@ -9,7 +9,7 @@ declare global {
 window.Webflow ||= [];
 window.Webflow.push(() => {
   if (!window.WebflowEditor) {
-    console.log('Put code in here to disable these running in the webflow content editor');
+    console.log('Wont run in Webflow editor');
   } else {
     console.log('Editor');
   }
