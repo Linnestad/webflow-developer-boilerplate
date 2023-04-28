@@ -11,6 +11,6 @@ window.Webflow.push(() => {
   if (!window.WebflowEditor) {
     console.log('Wont run in Webflow editor');
   } else {
-    console.log('Editor');
+    console.log('Will run in the Webflow editor');
   }
 });
