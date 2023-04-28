@@ -1,7 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
-/* eslint-disable @typescript-eslint/no-non-null-assertion */
 /* eslint-disable no-console */
-/* eslint-disable @typescript-eslint/no-unused-vars */
 
 export {};
 declare global {
